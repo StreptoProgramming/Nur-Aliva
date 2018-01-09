@@ -148,3 +148,76 @@ nav a:hover {
 	top: 600px;
 }
 
+#padkotak-galeri {
+	padding: 40px;
+}
+
+.kotakgaleri {
+	width: 178px;
+	height: 74px;
+	background: #F2C94C;
+	margin: 0 auto;
+	top: 50px;	
+}
+
+h2.judulgaleri {
+	text-align: center;
+	font-family: Rosarivo;
+	padding-top: 35px;
+}
+
+.backframe {
+
+}
+
+.framegaleri {
+	position:relative;
+	float: left;
+	margin: 5px;
+	display: block;
+	overflow:hidden;
+    min-width: 232px;
+    min-height: 232px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+	color: #fff!important;
+}
+.framegaleri .tjud{
+	text-align:center;
+	font-weight: bold;
+	font-size: 140%;
+	margin-bottom: 5px;
+
+}
+.textOverImage{
+background: rgba(0,0,0,0);
+position: absolute;
+top:0;
+left:0;
+right:0;
+bottom:0;
+transition: all .3s ease-out;
+}
+.framegaleri:hover .textOverImage{
+	background: rgba(0,0,0,.7);
+}
+.framegaleri, .testimon span {
+	display: block;
+}
+.framegaleri .tcont{
+	position: absolute;
+	padding: 20px;
+	top:100%;
+	transition: all .3s ease-out;
+	right: 0;
+    left: 0;
+	text-align: center;
+}
+.galeri:hover .tcont{
+	top:0;
+}
+
+.textOverImage:hover{
+
+}
