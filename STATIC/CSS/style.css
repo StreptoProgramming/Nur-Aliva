@@ -37,7 +37,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-	line-height: 1px;
+	line-height: 10px;
 }
 
 ol, ul {
@@ -221,3 +221,133 @@ transition: all .3s ease-out;
 .textOverImage:hover{
 
 }
+
+.tentangtext{
+
+}
+
+#bartentang {
+	width: 700px;
+	height: 30px;
+	background: #F2F2F2;
+	margin: 100px;
+}
+
+h1.label {
+	font-size: 14px;
+	font-family: Roboto;
+	text-align: left;
+	margin-left: 40px;
+	top: 30px;
+}
+
+body div h1 {
+	line-height: 30px;
+}
+
+body div p {
+	line-height: 20px;
+}
+
+#bartentang2 {
+	width: 700px;
+	height: 30px;
+	background: #F2F2F2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+h2.label {
+	font-size: 14px;
+	font-family: Roboto;
+	text-align: left;
+	margin-left: 40px;
+	top: 30px;
+}
+
+
+body div h2 {
+	line-height: 30px;
+}
+
+#bartentang3 {
+	width: 700px;
+	height: 30px;
+	background: #F2F2F2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+h3.label {
+	font-size: 14px;
+	font-family: Roboto;
+	text-align: left;
+	margin-left: 40px;
+	top: 30px;
+}
+
+#bartentang4 {
+	width: 700px;
+	height: 30px;
+	background: #F2F2F2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+h4.label {
+	font-size: 14px;
+	font-family: Roboto;
+	text-align: left;
+	margin-left: 40px;
+	top: 30px;
+}
+
+body div h3 {
+	line-height: 30px;
+}
+
+body div h4 {
+	line-height: 30px;
+}
+
+.tentsquare {
+	margin-left: 900px;
+}
+
+.squaretent1 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 100px;		
+}
+
+.squaretent2 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 400px;
+}
+
+.squaretent3 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 700px;
+}
+
+.squaretent4 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 1000px;
+}
+
+
+
+
+
+
