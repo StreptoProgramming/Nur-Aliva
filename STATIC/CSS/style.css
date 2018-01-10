@@ -433,6 +433,10 @@ h1.anakasuh{
 
 .blog-post {
 	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+	text-align: left;
+	margin-left: 10px;
+	padding-top: 10px;
 }
 
 table {
@@ -503,4 +507,181 @@ font-style:italic;
 
 .post-body h6 {
 	font-size: 140%
+}
+
+.post-body b, ..post-body em {
+	font-weight: bold;
+}
+
+.post-body i {
+	font-style: italic;
+}
+
+.post-body u {
+	text-decoration: underline;
+}
+
+.post-body ul, .post-body ol {
+	margin: 20px 40px 20px;
+}
+
+.post-body ul {
+	list-style-type: disc;
+}
+
+.post-body ol {
+	list-style-type: decimal;
+}
+
+.post-body img {
+	margin: 10px;
+	max-width: 100%;
+}
+
+.post-body img.aligncenter {
+	margin: 30 auto;
+	display: block;
+}
+
+.post-body img.alignleft {
+	float: left;
+	margin: 10px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+.post-body img.alignright {
+	float: right;
+	margin: 10px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.post-body blockquote {
+	margin: 30px;
+	background: #fdeadb;
+	padding: 30px;
+}
+
+#content .rapiher {
+	padding: 35px 15px;
+}
+
+.rapiher .blog-post-meta {
+	margin: 20px 0 5px 0;
+}
+
+/* Comments */
+.comment-title {
+	font-weight: bold;
+	font-size: 150%;
+	margin: 10px 0;
+}
+
+.maxblog {
+	max-width: 800px; margin: 0 auto;
+}
+
+.maxblog h3 {
+	background: #fae6ee;
+	font-family: Roboto;
+	display: table;
+	float: right;
+	padding: 20px;
+	font-size: 330%;
+	font-weight: bold;
+}
+
+.defback .rapiher {
+	max-width: 800px; margin: 0 auto; padding: 35px 15px;
+}
+
+.rapiher h2 {
+	font-family: bebas;
+	font-size: 130%;
+	margin-top: 
+}
+
+.rapiher h2 a {
+	text-decoration: none;
+	color: #000;
+}
+
+.rapiher h2 a:hover {
+	text-decoration: underline;
+	color: #000;
+}
+
+.rapiher p {
+	font-size: 120%;
+	margin-top: 15px;
+}
+
+.blog-post-title {
+	margin: bottom: 5px;
+	color: #cacaca;
+	font-size: 250%;
+	line-height: 100%;
+	text-align: left;
+}
+
+.blog-post h3,.blog-post h4,.blog-post h5,.blog-post h6 {
+	color: #cacaca;
+
+	margin-top: 20px;
+}
+
+.blog-post h3 {
+	font-size: 160%;
+}
+
+.blog-post b, .blog-post em,.blog-post strong {
+	font-weight: bold;
+}
+
+.blog-post blockquote {
+	background: #eaeaea;
+	padding: 10px;
+	border: 1px dashed #ccc;
+	display: table;
+	font-family: serif;
+	font-style: italic;
+	margin: 10px;
+}
+
+.blog-post i {
+	font-style: italic;
+}
+
+.blog-post code {
+	background : #22bfb1;
+	display: inline-block;
+	padding: 5px 7px;
+	font-size: 90%;
+	line-height: 100%;
+	color: #4e4e4e;
+}
+
+.blog-post ol {
+	padding-left: 2em;
+	list-style-type: decimal;
+}
+
+.blog-post ul {
+	padding-left: 2em;
+	list-style-type: disc;
+}
+
+.boxreadmore {
+	width: 208px;
+	height: 55px;
+	background: #EB5757;
+	margin-left: 240px;
+}
+
+.boxreadmore p {
+	font-family: Roboto;
+	font-size: 24px;
+	margin-left: 20px;
+	padding-top: 18px;
 }
