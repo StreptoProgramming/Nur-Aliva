@@ -370,6 +370,7 @@ body div h4 {
 	margin-bottom: 5px;
 }
 
+
 .frameasuhan:hover .textOverImage{
 	background: rgba(0,0,0,.7);
 }
@@ -684,4 +685,92 @@ font-style:italic;
 	font-size: 24px;
 	margin-left: 20px;
 	padding-top: 18px;
+}
+
+footer {
+	
+
+
+	font-family: Roboto;
+	background: #27AE60;
+	padding: 35px 10px;
+	color: #fff;
+	font-size: 150%;
+	text-align: center;
+
+}
+footer #footmax{
+		max-width:1366px;
+	margin: 0 auto;
+}
+.footc {
+	width:33%;
+	text-align:center;
+	float: left;
+}
+.footc #con {
+	border-left: 1px solid #ddd;
+	padding:  10px;
+	    text-align: left;
+
+}
+.footc div{
+	    padding: 10px 0;
+
+}
+.footc #con div img, .footc #con div p {
+	display: inline-block;
+	vertical-align:middle;
+}
+.footc #con div img {
+	    height: 50px;
+		    margin-right: 10px;
+}
+.footc #con a{
+	margin: 20px;
+	background: #fff;
+	max-width: 50px;
+    height: 50px;
+}
+.footc ul,.footc li{
+	list-style: none;
+	padding:0;
+	margin:0;
+}
+.footc li{
+	line-height: 150%;
+	padding:0px;
+}
+
+
+
+.footc li a{
+	text-decoration: none;
+	color: #ddd;
+
+
+}
+.footc li a:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+.footc h3 {
+	font-size: 150%;
+	padding: 10px;
+}
+.footc ul {
+	padding: 10px;
+}
+.kaki {
+	background: #111;
+	text-align:center;
+	padding: 15px;
+	color: #999;
+}
+
+#vertical-line{
+	width:1px;
+	height:160px;
+	background-color: white;
+
 }
