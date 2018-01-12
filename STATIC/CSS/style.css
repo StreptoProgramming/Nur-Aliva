@@ -234,13 +234,6 @@ transition: all .3s ease-out;
 	margin: 100px;
 }
 
-h1.label {
-	font-size: 14px;
-	font-family: Roboto;
-	text-align: left;
-	margin-left: 40px;
-	top: 30px;
-}
 
 body div h1 {
 	line-height: 30px;
@@ -258,15 +251,6 @@ body div p {
 	margin-top: -60px;
 }
 
-h2.label {
-	font-size: 14px;
-	font-family: Roboto;
-	text-align: left;
-	margin-left: 40px;
-	top: 30px;
-}
-
-
 body div h2 {
 	line-height: 30px;
 }
@@ -279,13 +263,6 @@ body div h2 {
 	margin-top: -60px;
 }
 
-h3.label {
-	font-size: 14px;
-	font-family: Roboto;
-	text-align: left;
-	margin-left: 40px;
-	top: 30px;
-}
 
 #bartentang4 {
 	width: 700px;
@@ -295,13 +272,15 @@ h3.label {
 	margin-top: -60px;
 }
 
-h4.label {
+
+h1.label, h2.label, h3.label, h4.label, h5.label, h6.label {
 	font-size: 14px;
 	font-family: Roboto;
 	text-align: left;
 	margin-left: 40px;
 	top: 30px;
 }
+
 
 body div h3 {
 	line-height: 30px;
@@ -687,6 +666,7 @@ font-style:italic;
 	padding-top: 18px;
 }
 
+<<<<<<< HEAD
 footer {
 	
 
@@ -774,3 +754,116 @@ footer #footmax{
 	background-color: white;
 
 }
+=======
+.programtext {
+
+}
+
+#barprogram{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+}
+
+#barprogram2{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+#barprogram3{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+#barprogram4{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+#barprogram5{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+#barprogram6{
+	width: 700px;
+	height: 30px;
+	background: #f2f2f2;
+	margin: 100px;
+	margin-top: -60px;
+}
+
+body div h5 {
+	line-height: 30px;
+}
+
+body div h6 {
+	line-height: 30px;
+}
+
+#padkotak-program {
+	padding: 40px;
+}
+
+.kotakprogram {
+	width: 178px;
+	height: 74px;
+	background: #F2C94C;
+	margin: 0 auto;
+	top: 50px;	
+}
+
+h1.judulprogram {
+	text-align: center;
+	font-family: Rosarivo;
+	padding-top: 22px;
+}
+
+.squareprog1{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 250px;	
+}
+
+.squareprog2{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 550px;	
+}
+
+.squareprog3{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 850px;	
+}
+
+.squareprog4{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background: #F2F2F2;
+	top: 1150px;	
+}
+
+
+
+>>>>>>> fc661d312d54598bd6529a0a7cc6840da020e247
